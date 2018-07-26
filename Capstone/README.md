@@ -1,6 +1,6 @@
 # First Capstone Project Directory
 ## Edmonton Open Data Analysis for Property Assessment Values
-
+### [Project Proposal: Capstone 1](https://docs.google.com/document/d/1qs64wmLrV34E9YbAemrvvMxOk4ypyoNi5NLC1S6DeZQ/edit?usp=sharing)
 - *Property_Assessment_Data__Current_Calendar_Year_.csv* [Data Source](https://data.edmonton.ca/City-Administration/Property-Assessment-Data-Current-Calendar-Year-/q7d6-ambg)
 
 - *EPS_Neighbourhood_Criminal_Incidents.csv* [Data Source](https://dashboard.edmonton.ca/dataset/EPS-Neighbourhood-Criminal-Incidents/xthe-mnvi)

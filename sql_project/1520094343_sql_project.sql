@@ -65,20 +65,28 @@ in question. */
 SELECT name AS Facility, 
        monthlymaintenance AS 'Monthly Maintenance',
        CASE WHEN monthlymaintenance <= 100 THEN 'cheap'
-            WHEN monthlymaintenance > 100 THEN 'expensive'
+            ELSE 'expensive'
             END AS 'Cost Description'
 FROM Facilities
 
 /* Q6: You'd like to get the first and last name of the last member(s)
 who signed up. Do not use the LIMIT clause for your solution. */
 
-
+SELECT firstname,
+       surname
+FROM Members
+WHERE joindate = (SELECT MAX(joindate) FROM Members)
 
 /* Q7: How can you produce a list of all members who have used a tennis court?
 Include in your output the name of the court, and the name of the member
 formatted as a single column. Ensure no duplicate data, and order by
 the member name. */
 
+SELECT facility.name AS facility,
+       member.firstname + ' ' + member.surname AS name
+FROM Facilities facility
+JOIN Bookings book
+  ON book.facid = facility.facid
 
 /* Q8: How can you produce a list of bookings on the day of 2012-09-14 which
 will cost the member (or guest) more than $30? Remember that guests have

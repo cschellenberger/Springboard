@@ -1,7 +1,8 @@
 # Datasets
-
-.csv
+*.csv
 
 # Images
+*.png
 
-.png
+# Jupyter Notebook
+.ipynb_checkpoints

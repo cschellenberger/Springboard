@@ -4,5 +4,8 @@
 # Images
 *.png
 
+# Keys
+keys.py
+
 # Jupyter Notebook
 .ipynb_checkpoints

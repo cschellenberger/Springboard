@@ -1,8 +1,6 @@
 # Datasources and Files
 *.csv
 *.png
-*.jpeg
-*.jpg
 *.xlsx
 *.py
 *.tsv

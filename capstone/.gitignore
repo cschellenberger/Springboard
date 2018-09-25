@@ -11,9 +11,6 @@ keys.py
 *.png
 *.jpeg
 
-#pdf reference docs
-*.pdf
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

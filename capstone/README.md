@@ -1,5 +1,7 @@
 # Edmonton Open Data Analysis for Property Assessment Values and Crime
-![crime vs pop](https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/crime+vs+population.png) ![map analysis](https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/map-analysis.png) ![survey responses](https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/survey-responses.png)
+<div>
+  <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/crime+vs+population.png" alt="crime vs pop" height="250">
+</div>
 # Documentation
 
 ### [Project Proposal: Capstone 1](https://docs.google.com/document/d/1qs64wmLrV34E9YbAemrvvMxOk4ypyoNi5NLC1S6DeZQ/edit?usp=sharing)

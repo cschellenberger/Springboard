@@ -10,7 +10,6 @@
 # iPython Notebooks
 Notebook | Description
 -------- | -----------
-Data Analysis | An exploratory look at the open datasets provided by the City of Edmonton
 Survey Analysis | A statistical analaysis of community response data. Producing 99% confidence intervals regarding property assessment responses 
 Data Wrangling | Data cleaning, organization, transformation, and preparation for analysis
 Map Analysis | A visual (Geographical Information System) representation of the property assessment data

@@ -10,11 +10,11 @@
 # iPython Notebooks
 Notebook | Description
 -------- | -----------
-Survey Analysis | A statistical analaysis of community response data. Producing 99% confidence intervals regarding property assessment responses 
-Data Wrangling | Data cleaning, organization, transformation, and preparation for analysis
-Map Analysis | A visual (Geographical Information System) representation of the property assessment data
-Regressor Selection | Model optimization utilizing the Hyperopt module for regressor selection
-Machine Learning | Predictive analysis of property assessment values
+[Survey Analysis](https://github.com/cschellenberger/Springboard/blob/master/capstone/Survey%20Analysis.ipynb) | A statistical analaysis of community response data. Producing 99% confidence intervals regarding property assessment responses 
+[Data Wrangling](https://github.com/cschellenberger/Springboard/blob/master/capstone/Data%20Wrangling.ipynb) | Data cleaning, organization, transformation, and preparation for analysis
+[Map Analysis](https://github.com/cschellenberger/Springboard/blob/master/capstone/Map%20Analysis.ipynb) | A visual (Geographical Information System) representation of the property assessment data
+[Regressor Selection](https://github.com/cschellenberger/Springboard/blob/master/capstone/Regressor%20Selection.ipynb) | Model optimization utilizing the Hyperopt module for regressor selection
+[Machine Learning](https://github.com/cschellenberger/Springboard/blob/master/capstone/Machine%20Learning.ipynb) | Predictive analysis of property assessment values
 
 # Datasets
   - *Property_Assessment_Data__Current_Calendar_Year_.csv* [Data Source](https://data.edmonton.ca/City-Administration/Property-Assessment-Data-Current-Calendar-Year-/q7d6-ambg)

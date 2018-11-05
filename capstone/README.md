@@ -5,15 +5,14 @@
 ### [Project Proposal: Capstone 1](https://docs.google.com/document/d/1qs64wmLrV34E9YbAemrvvMxOk4ypyoNi5NLC1S6DeZQ/edit?usp=sharing)
 
 # iPython Notebooks
-
 Notebook | Description
-!------! | !----------
-Data Analysis | An exploratory look at the open datasets provided by the City of Edmonton.
+-------- | -----------
+Data Analysis | An exploratory look at the open datasets provided by the City of Edmonton
 Survey Analysis | A statistical analaysis of community response data. Producing 99% confidence intervals regarding property assessment responses 
-Data Wrangling | Data cleaning, organization, transformation, and preparation for analysis.
-Map Analysis | A visual (Geographical Information System) representation of the property assessment data.
-Regressor Selection | Model optimization utilizing the Hyperopt module for regressor selection.
-Machine Learning | Predictive analysis of property assessment values.
+Data Wrangling | Data cleaning, organization, transformation, and preparation for analysis
+Map Analysis | A visual (Geographical Information System) representation of the property assessment data
+Regressor Selection | Model optimization utilizing the Hyperopt module for regressor selection
+Machine Learning | Predictive analysis of property assessment values
 
 # Datasets
   - *Property_Assessment_Data__Current_Calendar_Year_.csv* [Data Source](https://data.edmonton.ca/City-Administration/Property-Assessment-Data-Current-Calendar-Year-/q7d6-ambg)

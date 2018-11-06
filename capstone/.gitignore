@@ -1,6 +1,9 @@
 #api keys
 keys.py
 
+#model persistence
+*.joblib
+
 #csv datasets
 *.csv
 

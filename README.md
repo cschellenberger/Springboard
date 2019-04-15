@@ -1,6 +1,6 @@
 # Springboard
 ## July 9, 2018 cohort Data Science Career Track
-Course Item | Date Completed | Links 
------------ | -------------- | ----- 
-First Capstone Project | Started | [Project Proposal](https://docs.google.com/document/d/1qs64wmLrV34E9YbAemrvvMxOk4ypyoNi5NLC1S6DeZQ/edit?usp=sharing)
-Second Capstone Project | Ongoing | 
+Course Item | Title | Date Completed | Links 
+----------- | ----- | -------------- | ----- 
+First Capstone Project | Edmonton Property Assessments | Nov 2019 | [Project Overview](https://nbviewer.jupyter.org/github/cschellenberger/Edmonton-Capstone/blob/master/Edmonton%20Property%20Assessment%20and%20Crime%20Report.pdf)
+Second Capstone Project | Grade and Intervention Prediction | Jan 2019 | [Project Overview](https://nbviewer.jupyter.org/github/cschellenberger/Grade-Predict/blob/master/Grade%20Predictor%20and%20Intervention%20Suggestion.pdf)
